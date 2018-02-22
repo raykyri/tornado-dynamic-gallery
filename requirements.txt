@@ -1,0 +1,12 @@
+Pillow==5.0.0
+PyYAML==3.12
+argh==0.26.2
+backports-abc==0.5
+backports.ssl-match-hostname==3.5.0.1
+certifi==2018.01.18
+pathtools==0.1.2
+singledispatch==3.4.0.3
+six==1.11.0
+tornado==4.5.3
+watchdog==0.8.3
+wsgiref==0.1.2
